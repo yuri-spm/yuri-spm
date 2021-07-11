@@ -31,5 +31,6 @@ como por exemplo PHP.
 
 <hr>
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-do-monte-1160699a/)(https://www.linkedin.com/in/yuri-do-monte-1160699a/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-do-monte-1160699a/)](https://www.linkedin.com/in/yuri-do-monte-1160699a/)
 
