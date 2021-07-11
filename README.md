@@ -22,4 +22,4 @@ Eu moro no Rio de Janeiro, Brasil.
 como por exemplo PHP.
 
 ### ⚡ Skills:
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![PHP]
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![PHP](https://img.shields.io/badge/php-%5E7.4-blue)
