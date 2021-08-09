@@ -33,7 +33,7 @@ como por exemplo PHP.
 
 ### 💡  Languages
 ### 💡  Linguagens
-![languages]()
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-spm&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 
 <hr>
