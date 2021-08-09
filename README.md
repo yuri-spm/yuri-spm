@@ -30,6 +30,7 @@ como por exemplo PHP.
 
 [![Yuri do Monte github stats](https://github-readme-stats.vercel.app/api?username=yuri-spm&theme=cobalt&show_icons=true)](https://github.com/yuri-spm/github-readme-stats)
 
+
 ### 💡  Languages
 ### 💡  Linguagens
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-spm&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
