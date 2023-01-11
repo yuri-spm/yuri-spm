@@ -23,7 +23,7 @@ como por exemplo PHP.
 
 ### ⚡ Skills:
 ### ⚡ Habilidades:
-![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF)![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![PHP](https://img.shields.io/badge/php-%5E7.4-blue)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF)  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![PHP](https://img.shields.io/badge/php-%5E7.4-blue)  ![PHP](https://img.shields.io/badge/php-%5E8.0-blue)
 
 ### 📈 Stats
 ### 📈 Status 
