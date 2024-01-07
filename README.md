@@ -22,17 +22,16 @@ Eu moro no Rio de Janeiro, Brasil.
 como por exemplo PHP.
 
 ### ⚡ Skills:
-### ⚡ Habilidades:
+
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF)  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![PHP](https://img.shields.io/badge/php-%5E7.4-blue)  ![PHP](https://img.shields.io/badge/php-%5E8.0-blue) ![PHP](https://img.shields.io/badge/php-%5E8.3-blue)
 
 ### 📈 Stats
-### 📈 Status 
 
 [![Yuri do Monte github stats](https://github-readme-stats.vercel.app/api?username=yuri-spm&theme=cobalt&show_icons=true)](https://github.com/yuri-spm/github-readme-stats)
 
 
 ### 💡  Languages
-### 💡  Linguagens
+
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-spm&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 
