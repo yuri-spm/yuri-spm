@@ -2,13 +2,9 @@
 <h1 align="center"> 
 	✌ Welcome to my GitHub ✌</br>
   ✅ Bem vindo ao meu GitHub 🚀 
-
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-
-
 </h1>
 
-
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 Hi people 👋
 A little about me:
