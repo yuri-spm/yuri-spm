@@ -43,3 +43,7 @@ como por exemplo PHP.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-do-monte-1160699a/)](https://www.linkedin.com/in/yuri-do-monte-1160699a/)
 
+<hr>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
