@@ -16,7 +16,8 @@ I live in Rio de Janeiro, Brazil.
 
 **Currently working with:**
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP) ![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=SYMFONY) ![GLPI](https://img.shields.io/badge/GLPI-%230175C2.svg?style=for-the-badge&logo=GLPI&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FDEE21?style=for-the-badge&logo=JAVASCRIPT&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP) ![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=SYMFONY) ![GLPI](https://img.shields.io/badge/GLPI-%230175C2.svg?style=for-the-badge&logo=GLPI&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 **Learning:**
 
