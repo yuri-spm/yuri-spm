@@ -4,7 +4,9 @@
   ✅ Bem vindo ao meu GitHub 🚀 
 
 </h1>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
 
 Hi people 👋
 A little about me:
