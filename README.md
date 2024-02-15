@@ -21,9 +21,10 @@ Eu moro no Rio de Janeiro, Brasil.
 📚 Atualmente, estou aprendendo tudo relacionado a desenvolvimento web
 como por exemplo PHP.
 
-### ⚡ Skills:
+## ⚡ Technologies
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF)  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)  ![PHP](https://img.shields.io/badge/php-%5E8.2-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
 ### 📈 Stats
 
 [![Yuri do Monte github stats](https://github-readme-stats.vercel.app/api?username=yuri-spm&theme=cobalt&show_icons=true)](https://github.com/yuri-spm/github-readme-stats)
