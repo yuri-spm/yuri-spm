@@ -28,7 +28,7 @@ como por exemplo PHP.
 
 **Currently working with:**
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP) ![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=SYMFONY)
 
 **Learning:**
 
