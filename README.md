@@ -4,7 +4,9 @@
   ✅ Bem vindo ao meu GitHub 🚀 
 </h1>
 
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-do-monte-1160699a/)](https://www.linkedin.com/in/yuri-do-monte-1160699a/)
+
+
 
  <hr>
 
@@ -30,13 +32,5 @@ I live in Rio de Janeiro, Brazil.
 ### 💡  Languages
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-spm&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
-
-
-
-<hr>
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-do-monte-1160699a/)](https://www.linkedin.com/in/yuri-do-monte-1160699a/)
-
 
 
