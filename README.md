@@ -23,9 +23,11 @@ I live in Rio de Janeiro, Brazil.
 
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white)
 
-### 📈 Stats
+# 📊 GitHub Stats:
 
-[![Yuri do Monte github stats](https://github-readme-stats.vercel.app/api?username=yuri-spm&theme=cobalt&show_icons=true)](https://github.com/yuri-spm/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=poudyalanil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=poudyalanil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=poudyalanil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### 💡  Languages
@@ -35,7 +37,7 @@ I live in Rio de Janeiro, Brazil.
 
 **Connect with me:**
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230175C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-monte/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230175C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-monte/) ![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 
