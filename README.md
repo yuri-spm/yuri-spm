@@ -25,10 +25,7 @@ I live in Rio de Janeiro, Brazil.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=poudyalanil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=poudyalanil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=poudyalanil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=yuri-spm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ### 💡  Languages
 
