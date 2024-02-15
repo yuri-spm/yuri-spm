@@ -4,7 +4,9 @@
   ✅ Bem vindo ao meu GitHub 🚀 
 
 </h1>
-
+<hr>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<hr>
 Hi people 👋
 A little about me:
 
@@ -43,7 +45,5 @@ como por exemplo PHP.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-do-monte-1160699a/)](https://www.linkedin.com/in/yuri-do-monte-1160699a/)
 
-<hr>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
