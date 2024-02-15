@@ -5,8 +5,9 @@
 
 </h1>
 <hr>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-<hr>
+
 Hi people 👋
 A little about me:
 
