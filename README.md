@@ -1,8 +1,10 @@
-<img align="right" src="https://github.com/yuri-spm/yuri-spm/assets/63649751/c2422ece-42d8-4fcc-9120-0462e934d2bf" alt="Coder GIF" width="250" height="100"> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-
+<img align="right" src="https://github.com/yuri-spm/yuri-spm/assets/63649751/c2422ece-42d8-4fcc-9120-0462e934d2bf" alt="Coder GIF" width="250" height="100"> 
 <h1 align="center"> 
 	✌ Welcome to my GitHub ✌</br>
   ✅ Bem vindo ao meu GitHub 🚀 
+
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
 
 </h1>
 
