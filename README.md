@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/yuri-spm/yuri-spm/assets/63649751/c2422ece-42d8-4fcc-9120-0462e934d2bf" alt="Coder GIF" width="200" height="150">
+<img align="right" src="https://github.com/yuri-spm/yuri-spm/assets/63649751/c2422ece-42d8-4fcc-9120-0462e934d2bf" alt="Coder GIF" width="150" height="150">
 <h1 align="center"> 
 	✌ Welcome to my GitHub ✌</br>
   ✅ Bem vindo ao meu GitHub 🚀 
