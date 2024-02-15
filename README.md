@@ -33,3 +33,11 @@ I live in Rio de Janeiro, Brazil.
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-spm&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 
+**Connect with me:**
+
+![Linkedin](https://img.shields.io/badge/linkedin-%230175C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-monte/)
+
+
