@@ -4,7 +4,7 @@
   ✅ Bem vindo ao meu GitHub 🚀 
 </h1>
 
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-do-monte-1160699a/)](https://www.linkedin.com/in/yuri-do-monte-1160699a/)
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-do-monte-1160699a/)](https://www.linkedin.com/in/yuri-do-monte-1160699a/)
 
 
 
