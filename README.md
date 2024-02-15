@@ -14,23 +14,12 @@ A little about me:
 I live in Rio de Janeiro, Brazil.
 🔭 I'm currently working with Support and Development.
 
-📚 I’m currently learning everything related an web development 
-for example PHP.
- 
-Olá gente
-Um pouco sobre mim:
-
-Eu moro no Rio de Janeiro, Brasil.
-🔭 Atualmente estou trabalhando com Suporte e Desenvolvimento.
-
-📚 Atualmente, estou aprendendo tudo relacionado a desenvolvimento web
-como por exemplo PHP.
-
 **Currently working with:**
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP) ![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=SYMFONY)
 
 **Learning:**
+
 ![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=SYMFONY) ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
 
 ### 📈 Stats
