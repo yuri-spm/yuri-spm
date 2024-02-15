@@ -23,7 +23,7 @@ como por exemplo PHP.
 
 ### ⚡ Skills:
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF)  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)  ![PHP](https://img.shields.io/badge/php-%5E-blue)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF)  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)  ![PHP](https://img.shields.io/badge/php-%5E8.2-blue)
 ### 📈 Stats
 
 [![Yuri do Monte github stats](https://github-readme-stats.vercel.app/api?username=yuri-spm&theme=cobalt&show_icons=true)](https://github.com/yuri-spm/github-readme-stats)
