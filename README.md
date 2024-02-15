@@ -21,7 +21,7 @@ I live in Rio de Janeiro, Brazil.
 
 **Learning:**
 
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Laravel]([https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel](https://img.shields.io/badge/Laravel-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white))
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white)
 
 ### 📈 Stats
 
