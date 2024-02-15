@@ -26,9 +26,11 @@ Eu moro no Rio de Janeiro, Brasil.
 📚 Atualmente, estou aprendendo tudo relacionado a desenvolvimento web
 como por exemplo PHP.
 
-## ⚡ Technologies
+**Currently working with:**
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+
+**Learning:**
 
 ### 📈 Stats
 
