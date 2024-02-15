@@ -34,7 +34,7 @@ I live in Rio de Janeiro, Brazil.
 
 **Connect with me:**
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230175C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-monte/) ![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230175C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-monte/) [![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuri-spm)
 
 
 
