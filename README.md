@@ -22,7 +22,8 @@ I live in Rio de Janeiro, Brazil.
 **Learning:**
 
 
-![Livewire](https://img.shields.io/badge/livewire-%23FFFFFF.svg?style=for-the-badge&logo=livewire&logoColor=7C3AED) ![FilamentPHP](https://img.shields.io/badge/filament-%231A56DB.svg?style=for-the-badge&logo=filament&logoColor=FFFFFF) 
+![Livewire](https://img.shields.io/badge/livewire-%23FFFFFF.svg?style=for-the-badge&logo=livewire&logoColor=7C3AED) ![FilamentPHP](https://img.shields.io/badge/filament-%23FDAE4B.svg?style=for-the-badge&logo=laravel&logoColor=FFFFFF
+) 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=yuri-spm&&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)<br/>
