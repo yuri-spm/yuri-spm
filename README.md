@@ -16,12 +16,12 @@ I live in Rio de Janeiro, Brazil.
 
 **Currently working with:**
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FDEE21?style=for-the-badge&logo=JAVASCRIPT&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-%23117AC9.svg?style=for-the-badge&logo=php&logoColor=white)   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GLPI](https://img.shields.io/badge/GLPI-%230175C2.svg?style=for-the-badge&logo=GLPI&logoColor=white) ![Node.js](https://img.shields.io/badge/NODE.JS-539E43?style=for-the-badge&logo=NODE.JS&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FDEE21?style=for-the-badge&logo=JAVASCRIPT&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-%23117AC9.svg?style=for-the-badge&logo=php&logoColor=white)   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GLPI](https://img.shields.io/badge/GLPI-%230175C2.svg?style=for-the-badge&logo=GLPI&logoColor=white) ![Node.js](https://img.shields.io/badge/NODE.JS-539E43?style=for-the-badge&logo=NODE.JS&logoColor=black)![Laravel](https://img.shields.io/badge/Laravel-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white)
+
 
 **Learning:**
 
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23D00000.svg?style=for-the-badge&logo=Laravel&logoColor=white)
-
+![Livewire](https://img.shields.io/badge/livewire-%23FFFFFF.svg?style=for-the-badge&logo=livewire&logoColor=7C3AED) 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=yuri-spm&&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)<br/>
