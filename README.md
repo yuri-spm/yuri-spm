@@ -29,9 +29,6 @@ I live in Rio de Janeiro, Brazil.
 
 ![](https://github-readme-stats.vercel.app/api?username=yuri-spm&&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)<br/>
 
-### 💡  Languages
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-spm&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 
 **Connect with me:**
